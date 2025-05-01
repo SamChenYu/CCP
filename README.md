@@ -1,6 +1,8 @@
 # This is a satirical project that mimics Python using Chinese syntax. It is not political and is intended purely for educational and comedic purposes
 
-### Basic compiler that allows full Chinese python source code. All keywords available are inside translate.txt
+# 这是一个通过中文语法模仿 Python 的讽刺项目，完全不涉及政治，仅用于教育和娱乐目的。
+
+### Basic compiler that allows full Chinese python source code. All keywords are mapped translations, all within translate.txt
 
 Example .ccp source code
 ```python
