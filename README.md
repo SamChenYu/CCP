@@ -1,7 +1,3 @@
-# This is a satirical project that mimics Python using Chinese syntax. It is not political and is intended purely for educational and comedic purposes
-
-# 这是一个通过中文语法模仿 Python 的讽刺项目，完全不涉及政治，仅用于教育和娱乐目的。
-
 ### Basic compiler that allows full Chinese python source code. All keywords are mapped translations, all within translate.txt
 
 Example .ccp source code
@@ -9,7 +5,7 @@ Example .ccp source code
 # 主程序.ccp
 类 人:
     定义 __初始化__(自己, 名字):
-        自己.名字= 名字
+        自己.名字 = 名字
     定义 __细绳__(自己):
         返回 自己.名字
 

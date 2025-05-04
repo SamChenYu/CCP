@@ -34,11 +34,15 @@
 异常->except
 跳过->pass
 
+
+# Special Variables
+标识->name
+主程序->main
+
+
 # Built-In Functions etc
 打印->print
 范围->range
 长度->len
-标识->name
-主程序->main
 初始化->init
 细绳->str
